@@ -29,12 +29,21 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
 <br />
-Java, Javascript, Typescript, SQL, NoSQL, C, C++
+Java, Javascript, Typescript, SQL, NoSQL, C, C++ <br />
 React, Spring Boot, Hibernate, Serverless framework, AWS Lambda, GraphQL, Prisma Client,
 Git, Docker, Kubernetes, Node.js, Next.js, AWS Amplify, EC2, Cognito, GCE, GKE, Heroku
 
 <br />
 <br />
+
+---
+
+### [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] Latest Projects Demo
+<!-- PROJECTS:START -->
+[AWS Amplify Customizable Auth Components](https://master.d38jixybioco37.amplifyapp.com)
+[Event Search and Recommendation APP](http://3.21.142.8/eventin)
+[Sorting Algorithms Visualizer](https://shixianc.github.io/Sorting-Visualizer)
+<!-- PROJECTS:END -->
 
 ---
 
