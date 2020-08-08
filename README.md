@@ -40,9 +40,9 @@ Git, Docker, Kubernetes, Node.js, Next.js, AWS Amplify, EC2, Cognito, GCE, GKE, 
 
 ### [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />] Latest Projects Demo
 <!-- PROJECTS:START -->
-[AWS Amplify Customizable Auth Components](https://master.d38jixybioco37.amplifyapp.com)
-[Event Search and Recommendation APP](http://3.21.142.8/eventin)
-[Sorting Algorithms Visualizer](https://shixianc.github.io/Sorting-Visualizer)
+- [AWS Amplify Customizable Auth Components](https://master.d38jixybioco37.amplifyapp.com)
+- [Event Search and Recommendation APP](http://3.21.142.8/eventin)
+- [Sorting Algorithms Visualizer](https://shixianc.github.io/Sorting-Visualizer)
 <!-- PROJECTS:END -->
 
 ---
