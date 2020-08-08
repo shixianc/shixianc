@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Whippy][whippy] as a Software Development Engineer!
 - 🌱 I’m currently learning everything 🤣 especially interested in cloud computing
-- 👯 I’m looking for a full time position as SDE starting from 01/2020
+- 👯 I’m looking for a SDE full time position starting from 01/2020 at any location
 - ⚡ Fun fact: I love to cook and listen to electronic dance music!
 
 ### Connect with me:
