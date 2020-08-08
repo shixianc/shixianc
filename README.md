@@ -2,7 +2,7 @@
 
 ## I'm a developer and student at USC 
 
-- 🔭 I’m currently working at [Whippy][https://www.hellowhippy.com] as a Software Development Engineer!
+- 🔭 I’m currently working at [Whippy][whippy] as a Software Development Engineer!
 - 🌱 I’m currently learning everything 🤣 especially interested in cloud computing
 - 👯 I’m looking for a full time position as SDE starting at 01/2020
 - ⚡ Fun fact: I love to cook and listen to electronic dance music!
@@ -36,6 +36,7 @@ Git, Docker, Kubernetes, Node.js, Next.js, AWS Amplify, EC2, Cognito, GCE, GKE, 
 
 ---
 
+[whippy]: https://www.hellowhippy.com
 [website]: https://github.com/shixianc
 [instagram]: https://www.instagram.com/csxxsccsx/
 [linkedin]: linkedin.com/in/shixian-cui-2814ab187
