@@ -3,7 +3,7 @@
 ## I'm a developer, and student at USC (fight on!)
 
 - 🔭 I’m currently working at [Whippy][whippy] as a Software Development Engineer!
-- 🌱 I’m currently learning everything 🤣 especially interested in cloud computing
+- 🌱 I’m currently learning everything 🤣 recently interested in cloud computing
 - 👯 I’m looking for a full time position as SDE starting from 01/2020
 - ⚡ Fun fact: I love to cook and listen to electronic dance music!
 
