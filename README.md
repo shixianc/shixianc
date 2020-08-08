@@ -39,4 +39,4 @@ Git, Docker, Kubernetes, Node.js, Next.js, AWS Amplify, EC2, Cognito, GCE, GKE, 
 [whippy]: https://www.hellowhippy.com
 [website]: https://github.com/shixianc
 [instagram]: https://www.instagram.com/csxxsccsx/
-[linkedin]: linkedin.com/in/shixian-cui-2814ab187
+[linkedin]: https://www.linkedin.com/in/shixian-cui-2814ab187
