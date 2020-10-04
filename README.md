@@ -16,7 +16,7 @@
 <br />
 
 ### Featured repo:
-Customized AWS Amplify Authenticator[https://github.com/shixianc/aws-amplify-auth-component]
+(Customized AWS Amplify Authenticator)[https://github.com/shixianc/aws-amplify-auth-component]
 
 ### Languages and Tools:
 
