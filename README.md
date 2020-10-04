@@ -7,8 +7,6 @@
 - 👯 I’m looking for a SDE full time position starting from 01/2021 at any location
 - ⚡ Fun fact: I love to cook and listen to electronic dance music!
 
-<br />
-<br />
 
 ### Connect with me:
 
