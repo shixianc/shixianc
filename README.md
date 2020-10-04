@@ -7,6 +7,9 @@
 - 👯 I’m looking for a SDE full time position starting from 01/2021 at any location
 - ⚡ Fun fact: I love to cook and listen to electronic dance music!
 
+<br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="shixian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,10 +17,14 @@
 [<img align="left" alt="shixian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
 
 ### Featured repo:
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 [Customized AWS Amplify Authenticator](https://github.com/shixianc/aws-amplify-auth-component)
+
+<br />
+<br />
 
 ### Languages and Tools:
 
