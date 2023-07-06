@@ -1,12 +1,6 @@
 ### Hi there, I'm Shixian Cui 👋
 
-## I'm a developer, and student at USC (fight on!)
-
-- 🔭 I’m currently working at [Whippy][whippy] as a Software Development Engineer!
-- 🌱 I’m currently learning everything 🤣 especially interested in cloud computing
-- 👯 I’m looking for a SDE full time position starting from 01/2021 at any location
-- ⚡ Fun fact: I love to cook and listen to electronic dance music!
-
+## Interested in machine learning, especially model inference optimization.
 
 ### Connect with me:
 
