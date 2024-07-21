@@ -13,14 +13,12 @@
 <br />
 <br />
 
-[Customized AWS Amplify Authenticator](https://github.com/shixianc/aws-amplify-auth-component)
-
 <br />
 <br />
 
 ---
 
-### <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> Latest Projects Demo
+### <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
 <!-- PROJECTS:START -->
 - [AWS Amplify Customizable Auth Components](https://master.d38jixybioco37.amplifyapp.com)
 - [Event Search and Recommendation APP](http://3.21.142.8/eventin)
