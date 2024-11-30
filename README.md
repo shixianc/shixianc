@@ -1,6 +1,6 @@
 ### Hi there, I'm Shixian Cui 👋
 
-## Interested in machine learning, especially model inference optimization.
+## Interested in getting model run faster
 
 ### Connect with me: 
 ## emai: tcui1101@gmail.com
