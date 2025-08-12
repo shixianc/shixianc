@@ -1,4 +1,4 @@
 ### I'm Shixian
 
-interested in getting model run faster
+interested in getting model running faster
 
